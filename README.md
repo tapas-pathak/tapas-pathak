@@ -1,4 +1,4 @@
-### Hi, I'm Tapas Pathak 👋 
+### Hi, I'm Tapas Kumar Pathak 👋 
 
 * I am Software Engineer
 * Love to write code

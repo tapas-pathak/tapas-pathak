@@ -1,6 +1,8 @@
 ### Hi, I'm Tapas Pathak 👋 
 #### Software Engineer
-![Software Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+crown I am Web Developer
+pen Love to write code
+microphone Like to share my knowledge
 
 To prove myself as a quick learner and highly energetic person to face any challenge such as organization in the field of ‘Computer Science & Engineering (CSE)’ and ‘Information & Communication Technology (ICT)’ where the contribution will be acknowledged, if I would be given any opportunity.
 

@@ -1,12 +1,15 @@
 ### Hi, I'm Tapas Pathak 👋 
-#### Software Engineer
-crown I am Web Developer
-pen Love to write code
-microphone Like to share my knowledge
 
+* I am Software Engineer
+* Love to write code
+* Like to share my knowledge
+
+
+# About Me
 To prove myself as a quick learner and highly energetic person to face any challenge such as organization in the field of ‘Computer Science & Engineering (CSE)’ and ‘Information & Communication Technology (ICT)’ where the contribution will be acknowledged, if I would be given any opportunity.
 
-Skills: JAVA, C#, ASP.NET, PHP, HTML 5, WordPress, JS, CSS, C, C++, Visual Basic 5 & 6, Android Application, MS SQL Server 2000, 2008, 2010, My SQL, Crystal Report, MS Access,Net Beans, Packat Tracer, MacroMedia Dream weaver, VLSI, MS Project, MS Visio, Adobe Premiere, Ulead Video Editing, Adobe Illustrator, Adobe Photoshop, Quark Express etc. 
+# Skills & Experiance
+JAVA, C#, ASP.NET, PHP, HTML 5, WordPress, JS, CSS, C, C++, Visual Basic 5 & 6, Android Application, MS SQL Server 2000, 2008, 2010, My SQL, Crystal Report, MS Access,Net Beans, Packat Tracer, MacroMedia Dream weaver, VLSI, MS Project, MS Visio, Adobe Premiere, Ulead Video Editing, Adobe Illustrator, Adobe Photoshop, Quark Express etc. 
 
 - 🔭 I’m currently working on Faculty 
 - 🌱 I’m currently learning App Development 
